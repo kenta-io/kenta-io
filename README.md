@@ -1,16 +1,18 @@
-## Hi there 👋
+## こんにちは、Kenta Chinen です 👋
 
-<!--
-**kenta-io/kenta-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+普段はフロントエンドを中心にWeb開発をしているエンジニアです。
+ユーザーが使いやすいと感じるUIを作ることに興味があります。
 
-Here are some ideas to get you started:
+- 🔭 現在取り組んでいること：（例：React / TypeScriptでの個人開発）
+- 🌱 学習中のこと：（例：Next.js、パフォーマンス最適化 など）
+- 💬 話せること：フロントエンド全般、UI/UX、開発プロセスなど
+- 📫 連絡先：（任意：X/Twitter、LinkedIn、ブログURLなど）
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 得意分野
+`HTML` `CSS` `JavaScript` `PHP` `WordPress`
+
+### 学習中分野
+ `TypeScript` `React`　`NestJs`
+
+---
+最近の活動はコントリビューショングラフをご覧ください 👇
